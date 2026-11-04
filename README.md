@@ -14,7 +14,7 @@ Become interview-ready for Data Analyst roles by mastering SQL and Pandas, and b
 
 | Track | Solved |
 |-------|--------|
-| Total problems solved on LeetCode | 95 |
+| Total problems solved on LeetCode | 95 | 
 
 > Updated regularly. Last update: November 2026
 

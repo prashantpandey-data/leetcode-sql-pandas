@@ -14,9 +14,7 @@ Become interview-ready for Data Analyst roles by mastering SQL and Pandas, and b
 
 | Track | Solved |
 |-------|--------|
-| SQL 50 | XX / 50 |
-| 30 Days of Pandas | XX / 30 |
-| Advanced SQL (window functions, self-joins) | XX |
+| Total problems solved on LeetCode | 95 |
 
 > Updated regularly. Last update: November 2026
 
